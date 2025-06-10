@@ -8,5 +8,6 @@
   },
   "scripts": {
     "build": "echo 'No build step required'"
-  }
+  },
+  "type": "module"
 }
